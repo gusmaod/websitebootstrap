@@ -1,0 +1,73 @@
+ /**container-fluid allInOne**/
+
+.allInOne {background:#637383; }
+@media (max-width: 991px) {
+	.arrow {display: none;}
+}
+
+@media (max-width: 430px) {
+	.call {font-size: 12px}
+}
+@media (max-width: 360px) {
+	.call {font-size: 11px}
+}
+
+
+.form-control{color: #fff;}
+.btn-block { width: 100%; display: block;}
+.form-control::-webkit-input-placeholder { color: white; }
+.form-control:-moz-placeholder { color: white; }
+.form-control::-moz-placeholder { color: white; }
+.form-control:-ms-input-placeholder { color: white; }
+
+.container-fluid.gallery {background: #637383; none repeat scroll 0 0; padding-bottom: 10px;padding-top: 36px;}
+   
+.form-group > span {font-weight: bold;}
+   
+.gallery_one {overflow: hidden;}
+
+.gallery_one img {float: left;}
+
+.container-fluid.allInOne {color: #fff;}
+    
+.col-md-12.text-center > center { padding-top: 20px;}
+   
+.col-md-5 {color: #fff;}
+    
+.col-md-5 img { margin-right: 10px;  margin-top: 13px;}
+
+.panel-body { background: #99a6b2 none repeat scroll 0 0;padding: 65px;}
+   
+span { font-size: 18px;}
+   
+.form-control{ background-color: #637383;}
+
+.gallery_two {overflow: hidden;}
+
+.gallery_two img {float: left;}
+
+/**container-fluid tengah**/
+.row.tengah_1 {padding: 30px;}
+    
+.gallery_two img { margin-right: 10px;margin-top: 11px;}
+   
+.col-md-4.text-center > h4 { font-weight: bold;}
+
+.col-md-8  {  margin-top: -10px;}
+  
+.row.tengah2 { padding: 30px;}
+  
+.row.picture1 { padding: 20px;}
+   
+.row.videoDemo {  padding-bottom: 25px; padding-top: 10px;}
+  
+.col-md-6 > h4 { padding-bottom: 20px;}
+  
+.container-fluid.profil { background: #a8b3bd; padding: 20px 0; margin: 10px 0;}
+    
+.container-fluid.profil span { font-weight: bold;}
+
+.argument .col-md-12.text-center {padding-top: 10px; padding-bottom: 30px;}
+    
+/**footer**/
+footer {background: black none repeat scroll 0 0; color: white;}
